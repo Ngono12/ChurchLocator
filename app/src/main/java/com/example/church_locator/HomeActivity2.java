@@ -16,6 +16,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class HomeActivity2 extends AppCompatActivity {
         
+        
             private LinearLayout map;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
